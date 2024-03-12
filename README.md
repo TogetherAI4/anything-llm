@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-    <b>AnythingLLM: A private ChatGPT to chat with <i>anything!</i></b>. <br />
-    An efficient, customizable, and open-source enterprise-ready document chatbot solution.
+    <b>AnythingLLM: Ein privater ChatGPT, um mit <i>allem!</i> zu chatten</b>. <br />
+    Eine effiziente, anpassbare und Open-Source-Unternehmenslösung für Chatbot-Dokumente, die bereit ist.
 </p>
 
 <p align="center">
@@ -14,79 +14,79 @@
       <img src="https://img.shields.io/badge/chat-mintplex_labs-blue.svg?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAH1UExURQAAAP////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////r6+ubn5+7u7/3+/v39/enq6urq6/v7+97f39rb26eoqT1BQ0pOT4+Rkuzs7cnKykZKS0NHSHl8fdzd3ejo6UxPUUBDRdzc3RwgIh8jJSAkJm5xcvHx8aanqB4iJFBTVezt7V5hYlJVVuLj43p9fiImKCMnKZKUlaaoqSElJ21wcfT09O3u7uvr6zE0Nr6/wCUpK5qcnf7+/nh7fEdKTHx+f0tPUOTl5aipqiouMGtubz5CRDQ4OsTGxufn515hY7a3uH1/gXBydIOFhlVYWvX29qaoqCQoKs7Pz/Pz87/AwUtOUNfY2dHR0mhrbOvr7E5RUy8zNXR2d/f39+Xl5UZJSx0hIzQ3Odra2/z8/GlsbaGjpERHSezs7L/BwScrLTQ4Odna2zM3Obm7u3x/gKSmp9jZ2T1AQu/v71pdXkVISr2+vygsLiInKTg7PaOlpisvMcXGxzk8PldaXPLy8u7u7rm6u7S1tsDBwvj4+MPExbe4ueXm5s/Q0Kyf7ewAAAAodFJOUwAABClsrNjx/QM2l9/7lhmI6jTB/kA1GgKJN+nea6vy/MLZQYeVKK3rVA5tAAAAAWJLR0QB/wIt3gAAAAd0SU1FB+cKBAAmMZBHjXIAAAISSURBVDjLY2CAAkYmZhZWNnYODnY2VhZmJkYGVMDIycXNw6sBBbw8fFycyEoYGfkFBDVQgKAAPyMjQl5IWEQDDYgIC8FUMDKKsmlgAWyiEBWMjGJY5YEqxMAqGMWFNXAAYXGgAkYJSQ2cQFKCkYFRShq3AmkpRgYJbghbU0tbB0Tr6ukbgGhDI10gySfBwCwDUWBsYmpmDqQtLK2sbTQ0bO3sHYA8GWYGWWj4WTs6Obu4ami4OTm7exhqeHp5+4DCVJZBDmqdr7ufn3+ArkZgkJ+fU3CIRmgYWFiOARYGvo5OQUHhEUAFTkF+kVHRsLBgkIeyYmLjwoOc4hMSk5JTnINS06DC8gwcEEZ6RqZGlpOfc3ZObl5+gZ+TR2ERWFyBQQFMF5eklmqUpQb5+ReU61ZUOvkFVVXXQBSAraitq29o1GiKcfLzc29u0mjxBzq0tQ0kww5xZHtHUGeXhkZhdxBYgZ4d0LI6c4gjwd7siQQraOp1AivQ6CuAKZCDBBRQQQNQgUb/BGf3cqCCiZOcnCe3QQIKHNRTpk6bDgpZjRkzg3pBQTBrdtCcuZCgluAD0vPmL1gIdvSixUuWgqNs2YJ+DUhkEYxuggkGmOQUcckrioPTJCOXEnZ5JS5YslbGnuyVERlDDFvGEUPOWvwqaH6RVkHKeuDMK6SKnHlVhTgx8jeTmqy6Eij7K6nLqiGyPwChsa1MUrnq1wAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0xMC0wNFQwMDozODo0OSswMDowMB9V0a8AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMTAtMDRUMDA6Mzg6NDkrMDA6MDBuCGkTAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDIzLTEwLTA0VDAwOjM4OjQ5KzAwOjAwOR1IzAAAAABJRU5ErkJggg==" alt="Discord">
   </a> |
   <a href="https://github.com/Mintplex-Labs/anything-llm/blob/master/LICENSE" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=white" alt="License">
+      <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=white" alt="Lizenz">
   </a> |
   <a href="https://docs.useanything.com" target="_blank">
-    Docs
+    Dokumentation
   </a> |
    <a href="https://my.mintplexlabs.com/aio-checkout?product=anythingllm" target="_blank">
-    Hosted Instance
+    Gehostete Instanz
   </a>
 </p>
 
 <p align="center">
-👉 AnythingLLM for desktop is in <b>public beta</b>! <a href="https://useanything.com/download" target="_blank"> Download Now</a>
+👉 AnythingLLM für Desktop ist im <b>öffentlichen Beta-Test</b>! <a href="https://useanything.com/download" target="_blank"> Jetzt herunterladen</a>
 </p>
 
-A full-stack application that enables you to turn any document, resource, or piece of content into context that any LLM can use as references during chatting. This application allows you to pick and choose which LLM or Vector Database you want to use as well as supporting multi-user management and permissions.
+Eine Full-Stack-Anwendung, mit der Sie jedes Dokument, jede Ressource oder jedes Stück Inhalt in einen Kontext verwandeln können, den jedes LLM als Referenz während des Chats verwenden kann. Diese Anwendung ermöglicht es Ihnen, auszuwählen, welches LLM oder Vector Database Sie verwenden möchten, und unterstützt gleichzeitig Multi-User-Verwaltung und Berechtigungen.
 
-![Chatting](https://github.com/Mintplex-Labs/anything-llm/assets/16845892/cfc5f47c-bd91-4067-986c-f3f49621a859)
+![Chatten](https://github.com/Mintplex-Labs/anything-llm/assets/16845892/cfc5f47c-bd91-4067-986c-f3f49621a859)
 
 <details>
-<summary><kbd>Watch the demo!</kbd></summary>
+<summary><kbd>Sehen Sie sich die Demo an!</kbd></summary>
 
-[![Watch the video](/images/youtube.png)](https://youtu.be/f95rGD9trL0)
+[![Video ansehen](/images/youtube.png)](https://youtu.be/f95rGD9trL0)
 
 </details>
 
-### Product Overview
+### Produktübersicht
 
-AnythingLLM is a full-stack application where you can use commercial off-the-shelf LLMs or popular open source LLMs and vectorDB solutions to build a private ChatGPT with no compromises that you can run locally as well as host remotely and be able to chat intelligently with any documents you provide it.
+AnythingLLM ist eine Full-Stack-Anwendung, mit der Sie kommerzielle LLMs von der Stange oder beliebte Open-Source-LLMs und VectorDB-Lösungen verwenden können, um einen privaten ChatGPT ohne Kompromisse zu erstellen, den Sie lokal ausführen und remote hosten können und mit dem Sie intelligent mit allen von Ihnen bereitgestellten Dokumenten chatten können.
 
-AnythingLLM divides your documents into objects called `workspaces`. A Workspace functions a lot like a thread, but with the addition of containerization of your documents. Workspaces can share documents, but they do not talk to each other so you can keep your context for each workspace clean.
+AnythingLLM unterteilt Ihre Dokumente in Objekte namens `Arbeitsbereiche`. Ein Arbeitsbereich funktioniert ähnlich wie ein Thread, jedoch mit dem Zusatz der Containerisierung Ihrer Dokumente. Arbeitsbereiche können Dokumente gemeinsam nutzen, sprechen aber nicht miteinander, sodass Sie den Kontext für jeden Arbeitsbereich sauber halten können.
 
-Some cool features of AnythingLLM
+Einige coole Funktionen von AnythingLLM
 
-- **Multi-user instance support and permissioning**
-- **_New_** [Custom Embeddable Chat widget for your website](./embed/README.md)
-- Multiple document type support (PDF, TXT, DOCX, etc)
-- Manage documents in your vector database from a simple UI
-- Two chat modes `conversation` and `query`. Conversation retains previous questions and amendments. Query is simple QA against your documents
-- In-chat citations
-- 100% Cloud deployment ready.
-- "Bring your own LLM" model.
-- Extremely efficient cost-saving measures for managing very large documents. You'll never pay to embed a massive document or transcript more than once. 90% more cost effective than other document chatbot solutions.
-- Full Developer API for custom integrations!
+- **Unterstützung für Mehrbenutzerinstanzen und Berechtigungen**
+- **_Neu_** [Benutzerdefinierbares einbettbares Chat-Widget für Ihre Website](./embed/README.md)
+- Unterstützung verschiedener Dokumententypen (PDF, TXT, DOCX usw.)
+- Verwalten Sie Dokumente in Ihrer Vector-Datenbank über eine einfache Benutzeroberfläche
+- Zwei Chat-Modi `Gespräch` und `Abfrage`. Das Gespräch behält frühere Fragen und Änderungen bei. Abfrage ist einfache QA gegen Ihre Dokumente.
+- Zitieren im Chat
+- 100% Cloud-Bereitstellungsfähig.
+- "Bringen Sie Ihr eigenes LLM"-Modell.
+- Extrem effiziente kostensparende Maßnahmen zur Verwaltung sehr großer Dokumente. Sie zahlen nie mehr, um ein massives Dokument oder Protokoll mehr als einmal einzubetten. 90% kostengünstiger als andere Dokumenten-Chatbot-Lösungen.
+- Vollständige Entwickler-API für benutzerdefinierte Integrationen!
 
-### Supported LLMs, Embedders, and Vector Databases
+### Unterstützte LLMs, Einbettungsmodelle und Vector-Datenbanken
 
-**Supported LLMs:**
+**Unterstützte LLMs:**
 
-- [Any open-source llama.cpp compatible model](/server/storage/models/README.md#text-generation-llm-selection)
+- [Jedes quelloffene llama.cpp-kompatible Modell](/server/storage/models/README.md#text-generation-llm-selection)
 - [OpenAI](https://openai.com)
 - [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
 - [Anthropic ClaudeV2](https://www.anthropic.com/)
 - [Google Gemini Pro](https://ai.google.dev/)
-- [Ollama (chat models)](https://ollama.ai/)
-- [LM Studio (all models)](https://lmstudio.ai)
-- [LocalAi (all models)](https://localai.io/)
-- [Together AI (chat models)](https://www.together.ai/)
-- [Perplexity (chat models)](https://www.perplexity.ai/)
-- [OpenRouter (chat models)](https://openrouter.ai/)
+- [Ollama (Chat-Modelle)](https://ollama.ai/)
+- [LM Studio (alle Modelle)](https://lmstudio.ai)
+- [LocalAi (alle Modelle)](https://localai.io/)
+- [Together AI (Chat-Modelle)](https://www.together.ai/)
+- [Perplexity (Chat-Modelle)](https://www.perplexity.ai/)
+- [OpenRouter (Chat-Modelle)](https://openrouter.ai/)
 - [Mistral](https://mistral.ai/)
 
-**Supported Embedding models:**
+**Unterstützte Einbettungsmodelle:**
 
-- [AnythingLLM Native Embedder](/server/storage/models/README.md) (default)
+- [AnythingLLM Native Einbettungsmodul](/server/storage/models/README.md) (Standard)
 - [OpenAI](https://openai.com)
 - [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
-- [LM Studio (all)](https://lmstudio.ai)
-- [LocalAi (all)](https://localai.io/)
-- [Ollama (all)](https://ollama.ai/)
+- [LM Studio (alle)](https://lmstudio.ai)
+- [LocalAi (alle)](https://localai.io/)
+- [Ollama (alle)](https://ollama.ai/)
 
-**Supported Vector Databases:**
+**Unterstützte Vector-Datenbanken:**
 
-- [LanceDB](https://github.com/lancedb/lancedb) (default)
+- [LanceDB](https://github.com/lancedb/lancedb) (Standard)
 - [Astra DB](https://www.datastax.com/products/datastax-astra)
 - [Pinecone](https://pinecone.io)
 - [Chroma](https://trychroma.com)
@@ -95,83 +95,80 @@ Some cool features of AnythingLLM
 - [Milvus](https://milvus.io)
 - [Zilliz](https://zilliz.com)
 
-### Technical Overview
+### Technischer Überblick
 
-This monorepo consists of three main sections:
+Dieses Monorepo besteht aus drei Hauptbereichen:
 
-- `frontend`: A viteJS + React frontend that you can run to easily create and manage all your content the LLM can use.
-- `server`: A NodeJS express server to handle all the interactions and do all the vectorDB management and LLM interactions.
-- `docker`: Docker instructions and build process + information for building from source.
-- `collector`: NodeJS express server that process and parses documents from the UI.
+- `frontend`: Ein ViteJS + React-Frontend, das Sie ausführen können, um all Ihre Inhalte zu erstellen und zu verwalten, die das LLM verwenden kann.
+- `server`: Ein NodeJS-Express-Server, der alle Interaktionen verwaltet und das gesamte VectorDB-Management und die LLM-Interaktionen durchführt.
+- `docker`: Docker-Anweisungen und Build-Prozess + Informationen zum Erstellen aus dem Quellcode.
+- `collector`: NodeJS-Express-Server, der Dokumente aus der Benutzeroberfläche verarbeitet und analysiert.
 
-## 🛳 Self Hosting
+## 🛳 Selbsthosting
 
-Mintplex Labs & the community maintain a number of deployment methods, scripts, and templates that you can use to run AnythingLLM locally. Refer to the table below to read how to deploy on your preferred environment or to automatically deploy.
+Mintplex Labs & die Community pflegen eine Reihe von Bereitstellungsmethoden, Skripten und Vorlagen, die Sie verwenden können, um AnythingLLM lokal auszuführen. Lesen Sie unten, wie Sie auf Ihrer bevorzugten Umgebung bereitstellen oder automatisch bereitstellen können.
 | Docker | AWS | GCP | Digital Ocean | Render.com |
 |----------------------------------------|----:|-----|---------------|------------|
-| [![Deploy on Docker][docker-btn]][docker-deploy] | [![Deploy on AWS][aws-btn]][aws-deploy] | [![Deploy on GCP][gcp-btn]][gcp-deploy] | [![Deploy on DigitalOcean][do-btn]][aws-deploy] | [![Deploy on Render.com][render-btn]][render-deploy] |
+| [![Auf Docker bereitstellen][docker-btn]][docker-deploy] | [![Auf AWS bereitstellen][aws-btn]][aws-deploy] | [![Auf GCP bereitstellen][gcp-btn]][gcp-deploy] | [![Auf DigitalOcean bereitstellen][do-btn]][aws-deploy] | [![Auf Render.com bereitstellen][render-btn]][render-deploy] |
 
 | Railway                                             |
 | --------------------------------------------------- |
-| [![Deploy on Railway][railway-btn]][railway-deploy] |
+| [![Auf Railway bereitstellen][railway-btn]][railway-deploy] |
 
-[or set up a production AnythingLLM instance without Docker →](./BARE_METAL.md)
+[oder richten Sie eine Produktionsinstanz von AnythingLLM ohne Docker ein →](./BARE_METAL.md)
 
-## How to setup for development
+## So richten Sie die Entwicklungsumgebung ein
 
-- `yarn setup` To fill in the required `.env` files you'll need in each of the application sections (from root of repo).
-  - Go fill those out before proceeding. Ensure `server/.env.development` is filled or else things won't work right.
-- `yarn dev:server` To boot the server locally (from root of repo).
-- `yarn dev:frontend` To boot the frontend locally (from root of repo).
-- `yarn dev:collector` To then run the document collector (from root of repo).
+- `yarn setup` Um die erforderlichen `.env`-Dateien auszufüllen, die Sie in jedem Anwendungsbereich benötigen (vom Wurzelverzeichnis des Repositorys aus).
+  - Füllen Sie diese aus, bevor Sie fortfahren. Stellen Sie sicher, dass `server/.env.development` ausgefüllt ist, sonst funktioniert nichts richtig.
+- `yarn dev:server` Um den Server lokal zu starten (vom Wurzelverzeichnis des Repositorys aus).
+- `yarn dev:frontend` Um das Frontend lokal zu starten (vom Wurzelverzeichnis des Repositorys aus).
+- `yarn dev:collector` Um dann den Dokumentensammler auszuführen (vom Wurzelverzeichnis des Repositorys aus).
 
-[Learn about documents](./server/storage/documents/DOCUMENTS.md)
+[Erfahren Sie mehr über Dokumente](./server/storage/documents/DOCUMENTS.md)
 
-[Learn about vector caching](./server/storage/vector-cache/VECTOR_CACHE.md)
+[Erfahren Sie mehr über die Vektor-Caching](./server/storage/vector-cache/VECTOR_CACHE.md)
 
-## Contributing
+## Mitwirken
 
-- create issue
-- create PR with branch name format of `<issue number>-<short name>`
-- yee haw let's merge
+- Problem erstellen
+- Pull-Request mit dem Branch-Namenformat `<Issue-Nummer>-<Kurzer-Name>` erstellen
+- Los geht's, lasst uns zusammenführen
 
 <details>
-<summary><kbd>Telemetry for AnythingLLM</kbd></summary>
+<summary><kbd>Telemetrie für AnythingLLM</kbd></summary>
 
-## Telemetry
+## Telemetrie
 
-AnythingLLM by Mintplex Labs Inc contains a telemetry feature that collects anonymous usage information.
+AnythingLLM von Mintplex Labs Inc enthält eine Telemetriefunktion, die anonyme Nutzungsdaten sammelt.
 
-### Why?
+### Warum?
 
-We use this information to help us understand how AnythingLLM is used, to help us prioritize work on new features and bug fixes, and to help us improve AnythingLLM's performance and stability.
+Wir verwenden diese Informationen, um zu verstehen, wie AnythingLLM verwendet wird, um die Priorisierung von Arbeiten an neuen Funktionen und Fehlerkorrekturen zu unterstützen und um die Leistung und Stabilität von AnythingLLM zu verbessern.
 
 ### Opting out
 
-Set `DISABLE_TELEMETRY` in your server or docker .env settings to "true" to opt out of telemetry.
+Setzen Sie `DISABLE_TELEMETRY` in Ihren Server- oder Docker-.env-Einstellungen auf "true", um sich von der Telemetrie abzumelden.
 
-```
-DISABLE_TELEMETRY="true"
-```
 
-### What do you explicitly track?
+### Was verfolgen Sie explizit?
 
-We will only track usage details that help us make product and roadmap decisions, specifically:
+Wir verfolgen nur Nutzungsdetails, die uns bei der Entscheidungsfindung für Produkt und Roadmap unterstützen, insbesondere:
 
-- Version of your installation
-- When a document is added or removed. No information _about_ the document. Just that the event occurred. This gives us an idea of use.
-- Type of vector database in use. Let's us know which vector database provider is the most used to prioritize changes when updates arrive for that provider.
-- Type of LLM in use. Let's us know the most popular choice and prioritize changes when updates arrive for that provider.
-- Chat is sent. This is the most regular "event" and gives us an idea of the daily-activity of this project across all installations. Again, only the event is sent - we have no information on the nature or content of the chat itself.
+- Version Ihrer Installation
+- Wann ein Dokument hinzugefügt oder entfernt wird. Keine Informationen _über_ das Dokument. Nur dass das Ereignis aufgetreten ist. Dies gibt uns eine Vorstellung von der Nutzung.
+- Typ der verwendeten Vektordatenbank. Lässt uns wissen, welcher Vektordatenbankanbieter am häufigsten verwendet wird, um Änderungen zu priorisieren, wenn Updates für diesen Anbieter eintreffen.
+- Typ des verwendeten LLM. Lässt uns die beliebteste Wahl wissen und priorisiert Änderungen, wenn Updates für diesen Anbieter eintreffen.
+- Chat wird gesendet. Dies ist das regelmäßigste "Ereignis" und gibt uns eine Vorstellung von der täglichen Aktivität dieses Projekts auf allen Installationen. Auch hier wird nur das Ereignis gesendet - wir haben keine Informationen über die Natur oder den Inhalt des Chats selbst.
 
-You can verify these claims by finding all locations `Telemetry.sendTelemetry` is called. Additionally these events are written to the output log so you can also see the specific data which was sent - if enabled. No IP or other identifying information is collected. The Telemetry provider is [PostHog](https://posthog.com/) - an open-source telemetry collection service.
+Sie können diese Angaben überprüfen, indem Sie alle Stellen finden, an denen `Telemetry.sendTelemetry` aufgerufen wird. Darüber hinaus werden diese Ereignisse im Ausgabeprotokoll geschrieben, sodass Sie auch die spezifischen Daten sehen können, die gesendet wurden - sofern aktiviert. Es werden keine IP- oder anderen identifizierenden Informationen gesammelt. Der Telemetrie-Anbieter ist [PostHog](https://posthog.com/) - ein Open-Source-Telemetriedienst.
 
 </details>
 
-## 🔗 More Products
+## 🔗 Weitere Produkte
 
-- **[VectorAdmin][vector-admin]:** An all-in-one GUI & tool-suite for managing vector databases.
-- **[OpenAI Assistant Swarm][assistant-swarm]:** Turn your entire library of OpenAI assistants into one single army commanded from a single agent.
+- **[VectorAdmin][vector-admin]:** Eine All-in-One-GUI und Werkzeugsammlung zur Verwaltung von Vektordatenbanken.
+- **[OpenAI Assistant Swarm][assistant-swarm]:** Verwandeln Sie Ihre gesamte Bibliothek von OpenAI-Assistenten in eine einzige Armee, die von einem einzelnen Agenten befehligt wird.
 
 <div align="right">
 
@@ -182,9 +179,9 @@ You can verify these claims by finding all locations `Telemetry.sendTelemetry` i
 ---
 
 Copyright © 2023 [Mintplex Labs][profile-link]. <br />
-This project is [MIT](./LICENSE) licensed.
+Dieses Projekt ist [MIT](./LICENSE) lizenziert.
 
-<!-- LINK GROUP -->
+<!-- LINK-GRUPPE -->
 
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-222628?style=flat-square
 [profile-link]: https://github.com/mintplex-labs
@@ -203,4 +200,5 @@ This project is [MIT](./LICENSE) licensed.
 [render-btn]: https://render.com/images/deploy-to-render-button.svg
 [render-deploy]: https://render.com/deploy?repo=https://github.com/Mintplex-Labs/anything-llm&branch=render
 [railway-btn]: https://railway.app/button.svg
-[railway-deploy]: https://railway.app/template/HNSCS1?referralCode=WFgJkn
+[railway-deploy]: https://railway.app/new?template=https://github.com/Mintplex-Labs/anything-llm/tree/railway
+
